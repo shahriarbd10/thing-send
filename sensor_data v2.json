@@ -1,234 +1,234 @@
 {
   "06:00:00": {
-    "temperature": 24.2,
-    "do": 1.2,
+    "temperature": 24.4,
+    "do": 1.0,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "06:10:00": {
-    "temperature": 24.2,
+    "temperature": 24.4,
     "do": 1.2,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "06:20:00": {
-    "temperature": 24.5,
-    "do": 1.2,
+    "temperature": 24.4,
+    "do": 1.1,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "06:30:00": {
-    "temperature": 24.5,
-    "do": 1.2,
+    "temperature": 24.6,
+    "do": 1.3,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "06:40:00": {
-    "temperature": 24.5,
+    "temperature": 24.6,
     "do": 1.3,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "06:50:00": {
-    "temperature": 24.7,
-    "do": 1.2,
+    "temperature": 24.8,
+    "do": 1.3,
     "ph": 7.3,
     "ammonia": 0.1
   },
   "07:00:00": {
-    "temperature": 24.7,
+    "temperature": 25.0,
     "do": 1.3,
     "ph": 7.3,
     "ammonia": 0.1
   },
   "07:10:00": {
-    "temperature": 24.7,
+    "temperature": 25.3,
     "do": 1.6,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "07:20:00": {
-    "temperature": 24.7,
+    "temperature": 25.2,
     "do": 1.9,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "07:30:00": {
-    "temperature": 24.7,
+    "temperature": 25.3,
     "do": 2.1,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "07:40:00": {
-    "temperature": 24.9,
+    "temperature": 25.8,
     "do": 2.1,
     "ph": 7.3,
     "ammonia": 0.1
   },
   "07:50:00": {
-    "temperature": 24.9,
+    "temperature": 25.6,
     "do": 2.1,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "08:00:00": {
-    "temperature": 24.9,
-    "do": 2.4,
+    "temperature": 26.2,
+    "do": 2.3,
     "ph": 7.2,
     "ammonia": 0.1
   },
   "08:10:00": {
-    "temperature": 24.9,
+    "temperature": 26.7,
     "do": 2.3,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "08:20:00": {
-    "temperature": 24.9,
+    "temperature": 26.7,
     "do": 2.3,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "08:30:00": {
-    "temperature": 24.9,
+    "temperature": 26.7,
     "do": 2.5,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "08:40:00": {
-    "temperature": 25.1,
+    "temperature": 26.7,
     "do": 2.7,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "08:50:00": {
-    "temperature": 25.1,
+    "temperature": 27.0,
     "do": 2.9,
     "ph": 7.3,
     "ammonia": 0.1
   },
   "09:00:00": {
-    "temperature": 25.1,
+    "temperature": 27.5,
     "do": 3.2,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "09:10:00": {
-    "temperature": 25.8,
+    "temperature": 27.9,
     "do": 3.2,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "09:20:00": {
-    "temperature": 25.8,
+    "temperature": 27.2,
     "do": 3.4,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "09:30:00": {
-    "temperature": 26.5,
+    "temperature": 27.2,
     "do": 3.3,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "09:40:00": {
-    "temperature": 26.5,
+    "temperature": 27.6,
     "do": 3.5,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "09:50:00": {
-    "temperature": 26.5,
+    "temperature": 28.0,
     "do": 3.7,
     "ph": 7.4,
     "ammonia": 0.2
   },
   "10:00:00": {
-    "temperature": 26.3,
+    "temperature": 28.3,
     "do": 3.8,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "10:10:00": {
-    "temperature": 26.4,
+    "temperature": 28.3,
     "do": 3.8,
     "ph": 7.3,
     "ammonia": 0.1
   },
   "10:20:00": {
-    "temperature": 26.4,
-    "do": 4.1,
+    "temperature": 28.5,
+    "do": 4.0,
     "ph": 7.4,
     "ammonia": 0.2
   },
   "10:30:00": {
-    "temperature": 26.5,
+    "temperature": 28.4,
     "do": 4.2,
     "ph": 7.3,
     "ammonia": 0.1
   },
   "10:40:00": {
-    "temperature": 26.3,
+    "temperature": 28.6,
     "do": 4.2,
     "ph": 7.3,
     "ammonia": 0.1
   },
   "10:50:00": {
-    "temperature": 26.3,
+    "temperature": 28.5,
     "do": 4.4,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "11:00:00": {
-    "temperature": 26.3,
+    "temperature": 28.9,
     "do": 4.4,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "11:10:00": {
-    "temperature": 26.5,
+    "temperature": 28.9,
     "do": 4.4,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "11:20:00": {
-    "temperature": 26.6,
+    "temperature": 29.2,
     "do": 4.4,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "11:30:00": {
-    "temperature": 26.6,
+    "temperature": 30.0,
     "do": 4.8,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "11:40:00": {
-    "temperature": 26.6,
-    "do": 5.1,
+    "temperature": 29.5,
+    "do": 5.0,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "11:50:00": {
-    "temperature": 27.5,
-    "do": 5.1,
+    "temperature": 30.8,
+    "do": 5.0,
     "ph": 7.4,
     "ammonia": 0.2
   },
   "12:00:00": {
-    "temperature": 28.7,
-    "do": 5.1,
+    "temperature": 30.1,
+    "do": 5.0,
     "ph": 7.1,
     "ammonia": 0.2
   },
   "12:10:00": {
     "temperature": 30.2,
-    "do": 5.1,
+    "do": 5.0,
     "ph": 7.1,
     "ammonia": 0.2
   },
   "12:20:00": {
-    "temperature": 30.4,
+    "temperature": 30.1,
     "do": 5.3,
     "ph": 7.0,
     "ammonia": 0.2
@@ -330,157 +330,157 @@
     "ammonia": 0.2
   },
   "15:10:00": {
-    "temperature": 32.8,
+    "temperature": 29.8,
     "do": 7.3,
     "ph": 7.2,
     "ammonia": 0.1
   },
   "15:20:00": {
-    "temperature": 33.6,
+    "temperature": 29.6,
     "do": 7.3,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "15:30:00": {
-    "temperature": 33.6,
+    "temperature": 29.3,
     "do": 7.4,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "15:40:00": {
-    "temperature": 33.8,
+    "temperature": 29.0,
     "do": 7.4,
     "ph": 7.1,
     "ammonia": 0.2
   },
   "15:50:00": {
-    "temperature": 33.8,
+    "temperature": 28.7,
     "do": 7.5,
     "ph": 7.1,
     "ammonia": 0.2
   },
   "16:00:00": {
-    "temperature": 34.0,
+    "temperature": 28.5,
     "do": 7.5,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "16:10:00": {
-    "temperature": 33.4,
+    "temperature": 29.4,
     "do": 7.5,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "16:20:00": {
-    "temperature": 33.6,
+    "temperature": 30.2,
     "do": 7.9,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "16:30:00": {
-    "temperature": 33.5,
+    "temperature": 30.9,
     "do": 7.9,
     "ph": 7.4,
     "ammonia": 0.2
   },
   "16:40:00": {
-    "temperature": 33.2,
+    "temperature": 30.8,
     "do": 7.9,
     "ph": 7.3,
     "ammonia": 0.1
   },
   "16:50:00": {
-    "temperature": 33.1,
+    "temperature": 30.0,
     "do": 7.7,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "17:00:00": {
-    "temperature": 32.8,
+    "temperature": 29.8,
     "do": 7.5,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "17:10:00": {
-    "temperature": 32.4,
+    "temperature": 30.1,
     "do": 7.2,
     "ph": 7.1,
     "ammonia": 0.1
   },
   "17:20:00": {
-    "temperature": 32.0,
+    "temperature": 30.2,
     "do": 6.8,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "17:30:00": {
-    "temperature": 31.3,
+    "temperature": 29.5,
     "do": 6.5,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "17:40:00": {
-    "temperature": 31.7,
+    "temperature": 29.1,
     "do": 6.3,
     "ph": 7.3,
     "ammonia": 0.1
   },
   "17:50:00": {
-    "temperature": 31.4,
+    "temperature": 29.0,
     "do": 5.8,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "18:00:00": {
-    "temperature": 31.2,
+    "temperature": 28.5,
     "do": 5.8,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "18:10:00": {
-    "temperature": 30.5,
+    "temperature": 28.1,
     "do": 5.6,
     "ph": 7.4,
     "ammonia": 0.2
   },
   "18:20:00": {
-    "temperature": 30.3,
+    "temperature": 28.0,
     "do": 5.6,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "18:30:00": {
-    "temperature": 30.7,
+    "temperature": 28.0,
     "do": 5.5,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "18:40:00": {
-    "temperature": 30.1,
+    "temperature": 28.1,
     "do": 5.4,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "18:50:00": {
-    "temperature": 30.1,
+    "temperature": 28.1,
     "do": 5.4,
     "ph": 7.2,
     "ammonia": 0.2
   },
   "19:00:00": {
-    "temperature": 29.7,
+    "temperature": 28.2,
     "do": 5.4,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "19:10:00": {
-    "temperature": 29.4,
+    "temperature": 28.4,
     "do": 5.4,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "19:20:00": {
-    "temperature": 29.5,
+    "temperature": 28.5,
     "do": 5.1,
     "ph": 7.3,
     "ammonia": 0.2
@@ -504,19 +504,19 @@
     "ammonia": 0.2
   },
   "20:00:00": {
-    "temperature": 27.6,
+    "temperature": 28.1,
     "do": 5.1,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "20:10:00": {
-    "temperature": 27.6,
+    "temperature": 27.9,
     "do": 5.1,
     "ph": 7.3,
     "ammonia": 0.2
   },
   "20:20:00": {
-    "temperature": 27.6,
+    "temperature": 27.8,
     "do": 4.8,
     "ph": 7.2,
     "ammonia": 0.2
@@ -696,7 +696,7 @@
     "ammonia": 0.2
   },
   "01:20:00": {
-    "temperature": 25.6,
+    "temperature": 26.0,
     "do": 3.1,
     "ph": 7.2,
     "ammonia": 0.2
@@ -708,7 +708,7 @@
     "ammonia": 0.2
   },
   "01:40:00": {
-    "temperature": 25.2,
+    "temperature": 25.7,
     "do": 3.2,
     "ph": 7.1,
     "ammonia": 0.2
@@ -751,13 +751,13 @@
   },
   "02:50:00": {
     "temperature": 25.2,
-    "do": 2.7,
+    "do": 3.0,
     "ph": 7.4,
     "ammonia": 0.2
   },
   "03:00:00": {
-    "temperature": 25.1,
-    "do": 2.5,
+    "temperature": 25.0,
+    "do": 2.7,
     "ph": 7.3,
     "ammonia": 0.2
   },
@@ -847,19 +847,19 @@
   },
   "05:30:00": {
     "temperature": 24.2,
-    "do": 1.1,
+    "do": 1.0,
     "ph": 7.1,
     "ammonia": 0.2
   },
   "05:40:00": {
     "temperature": 24.3,
-    "do": 1.1,
+    "do": 1.0,
     "ph": 7.1,
     "ammonia": 0.2
   },
   "05:50:00": {
     "temperature": 24.3,
-    "do": 1.1,
+    "do": 1.0,
     "ph": 7.1,
     "ammonia": 0.1
   }
