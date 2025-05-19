@@ -42,7 +42,7 @@ def main():
             # Always override temperature with 2.5°C less than current air temp
             air_temp = get_air_temperature()
             if air_temp is not None:
-                water_temp = round(air_temp - 2.5, 1)
+                water_temp = round(air_temp - 3.85, 1)
                 payload['temperature'] = water_temp
                 print(f"💧 Adjusted Water Temp (Air - 3.85°C): {water_temp}°C")
             else:
