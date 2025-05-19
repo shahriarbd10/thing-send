@@ -44,7 +44,7 @@ def main():
             if air_temp is not None:
                 water_temp = round(air_temp - 2.5, 1)
                 payload['temperature'] = water_temp
-                print(f"💧 Adjusted Water Temp (Air - 2.5°C): {water_temp}°C")
+                print(f"💧 Adjusted Water Temp (Air - 3.85°C): {water_temp}°C")
             else:
                 print("⚠️ Skipping temperature injection due to API error.")
                 return
